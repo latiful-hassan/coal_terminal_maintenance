@@ -7,7 +7,7 @@
   - a reclaimer machine requires maintenances when withing the previous month there was at least one 8-hour period when the average idle capacity was ver 10%
   - **Idle Capacity** is a utlisation metric which is definied as:
   
-    * ![equation](https://latex.codecogs.com/gif.latex?Idle%20%5C%20Capcity%20%3D%20%5Cfrac%7B%28Actual%20%5C%20Tonnage%20-%20Nominal%20%5C%20Capacity%29%7D%7BNominal%20%5C%20Capacity%7D)
+    * ![equation](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20Idle%20%5C%20Capcity%20%3D%20%5Cfrac%7B%28Actual%20%5C%20Tonnage%20-%20Nominal%20%5C%20Capacity%29%7D%7BNominal%20%5C%20Capacity%7D
  
 **Task**: 
 - find out which of the 5 machines have exceeded this level and create a report for the executive stakeholders with your recommendations
