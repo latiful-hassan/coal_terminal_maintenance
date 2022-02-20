@@ -2,6 +2,7 @@
 **Context**:
   - assessing which Coal Reclaimer machines require maintenance in the upcoming month
   - the machines run 24/7/365 and a minute of downtime equates to millions of dollars in lost revenue
+  - there are two types of machines, **Reclaimers** and **Stackers**, the latter will have inherent downtime when it is stacking coal
 
 **Criterion**:
   - a reclaimer machine requires maintenances when withing the previous month there was at least one 8-hour period when the average idle capacity was ver 10%
