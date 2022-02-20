@@ -17,4 +17,5 @@
 - the Timeline column is then used as a master to connect the rest of the data with left-joins
 - after creating the joins in Tableau, the data was further cleaned by hiding the vestigial Datetime columns
 - all rows with values were then pivoted
+- ![](E:\Data Science\Tableau\advanced\advanced_table_calculations\coal_terminal_screenshots)
 
