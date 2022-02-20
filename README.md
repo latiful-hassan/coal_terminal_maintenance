@@ -13,7 +13,6 @@
 - find out which of the 5 machines have exceeded this level and create a report for the executive stakeholders with your recommendations
 
 **Techniques & Process**:
-- dummy column (Excel) as master column for the joins (due to discrepancies in start dates in source data)
-- joins
-
+- a dummy column named 'Timeline' is created in Excel on a new sheet where we recreate the 'Datetime' column from the earliest date in the source data and increment by 1 hour
+- the Timeline column is then used as a master to connect the rest of the data with left-joins
 
