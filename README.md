@@ -18,6 +18,8 @@
 - after creating the joins in Tableau, the data was further cleaned by hiding the vestigial Datetime columns
 - all rows with values were then **Pivoted**
 - below you can see the joins as well as the pivoted data that has been renamed:
+- 
 ![](https://github.com/latiful-hassan/coal_terminal_utilization_story/blob/main/coal_terminal_screenshots/coal_joins.png)
 - to find the Idle Capacity, I created a graph shoing machines against hours and added a **Table Calculation** of **Difference** computed with **Table Down**. This calculates the Actual Tonnage - Nominal Capacity:
+- 
 ![](https://github.com/latiful-hassan/coal_terminal_utilization_story/blob/main/coal_terminal_screenshots/coal_idle_capacity_table_calc.png)
