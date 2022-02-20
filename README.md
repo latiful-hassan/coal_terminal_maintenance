@@ -23,3 +23,7 @@
 - to find the Idle Capacity, I created a graph shoing machines against hours and added a **Table Calculation** of **Difference** computed with **Table Down**. This calculates the (Actual Tonnage - Nominal Capacity) in Tonnes:
 
 ![](https://github.com/latiful-hassan/coal_terminal_utilization_story/blob/main/coal_terminal_screenshots/coal_idle_capacity_table_calc.png)
+
+- now I changed the axis to show positive values by created a **Calculated Field** as well as showing percentage and added a **Reference Line**:
+
+![](https://github.com/latiful-hassan/coal_terminal_utilization_story/blob/main/coal_terminal_screenshots/coal_idle_capacity_table_calc_pos.png)
