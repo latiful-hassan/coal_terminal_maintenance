@@ -17,6 +17,6 @@
 - the Timeline column is then used as a master to connect the rest of the data with left-joins
 - after creating the joins in Tableau, the data was further cleaned by hiding the vestigial Datetime columns
 - all rows with values were then pivoted
-
+- below you can see the joins as well as the pivoted data that has been renamed:
 ![alt text](https://github.com/latiful-hassan/coal_terminal_utilization_story/blob/main/coal_terminal_screenshots/coal_joins.png)
 
