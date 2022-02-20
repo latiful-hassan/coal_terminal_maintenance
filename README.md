@@ -15,4 +15,6 @@
 **Techniques & Process**:
 - a dummy column named 'Timeline' is created in Excel on a new sheet where we recreate the 'Datetime' column from the earliest date in the source data and increment by 1 hour
 - the Timeline column is then used as a master to connect the rest of the data with left-joins
+- after creating the joins in Tableau, the data was further cleaned by hiding the vestigial Datetime columns
+- all rows with values were then pivoted
 
