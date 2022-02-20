@@ -18,5 +18,5 @@
 - after creating the joins in Tableau, the data was further cleaned by hiding the vestigial Datetime columns
 - all rows with values were then pivoted
 
-![alt text](E:\Data Science\Tableau\advanced\advanced_table_calculations\coal_terminal_screenshots\coal_joins.png?raw=true)
+![alt text](https://github.com/latiful-hassan/coal_terminal_utilization_story/blob/main/coal_terminal_screenshots/coal_joins.png)
 
