@@ -41,7 +41,7 @@
   ELSE NULL <br />
   END
 
-![]()
+![](https://github.com/latiful-hassan/coal_terminal_utilization_story/blob/main/coal_terminal_screenshots/idle_capacity_8_hour_moving_average_conditional.png)
 
 **Summary of Process:**
   * visualised aggregate sum of data
