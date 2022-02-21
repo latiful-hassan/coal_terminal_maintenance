@@ -1,4 +1,4 @@
-# coal_terminal_utilization_story
+# coal_terminal_maintenance_analysis
 **Context**
   - Assessing which Coal Reclaimer machines require maintenance in the upcoming month
   - The machines run 24/7/365 and a minute of downtime equates to millions of dollars in lost revenue
