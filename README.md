@@ -43,6 +43,12 @@
 
 ![](https://github.com/latiful-hassan/coal_terminal_utilization_story/blob/main/coal_terminal_screenshots/idle_capacity_8_hour_moving_average_conditional.png)
 
+**Story**
+
+- Below is a screenshot of the first page in the analysis story, please see the file named 'coal_terminal_maintenance_analysis' for the full story:
+
+![](https://github.com/latiful-hassan/coal_terminal_utilization_story/blob/main/coal_terminal_screenshots/coal_terminal_maintenance_story.png)
+
 **Summary of Process**
   * Visualised aggregate sum of data
   * Created a table calculation on the percentage difference
