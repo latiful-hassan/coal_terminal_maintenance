@@ -32,4 +32,9 @@
 - created a graph showing an 8-hour moving average to assess if the machine needs maintenance via a calculated field with formula:
   * WINDOW_AVG([Idle Capacity Percent Positive], -7, 0 )
 
-![]()
+![](https://github.com/latiful-hassan/coal_terminal_utilization_story/blob/main/coal_terminal_screenshots/idle_capacity_8_hour_moving_average.png)
+
+- recap of steps taken thus far:
+  * visualised aggregate sum of data
+  * created a table calculation on the percentage difference
+  * created a table calculation using **Window Average** to find the 8-hour moving average
