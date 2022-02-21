@@ -36,9 +36,9 @@
 
 - as we can see from the viz above, there are some outliers in our data (SR1/SR4A) as there are times where this is no data. Due to this, the moving average is calculating on blank cells which is not an adequate representation. Therefore, we can exclude these discrepancies by editing the formula in the calculated field and adding a conditional statement: 
 
-  IF (WINDOW_COUNT([Idle Capacity Percent Positive], -7, 0) = 8)
-  THEN WINDOW_AVG([Idle Capacity Percent Positive], -7, 0)
-  ELSE NULL 
+  IF (WINDOW_COUNT([Idle Capacity Percent Positive], -7, 0) = 8) <br />
+  THEN WINDOW_AVG([Idle Capacity Percent Positive], -7, 0) <br />
+  ELSE NULL <br />
   END
 
 ![]()
