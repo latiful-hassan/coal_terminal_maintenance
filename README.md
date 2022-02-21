@@ -29,6 +29,7 @@
 
 ![](https://github.com/latiful-hassan/coal_terminal_utilization_story/blob/main/coal_terminal_screenshots/coal_idle_capacity_table_calc_pos.png)
 
-- created a graph showing an 8-hour moving average to assess if the machine needs maintenance:
+- created a graph showing an 8-hour moving average to assess if the machine needs maintenance via a calculated field with formula:
+  * WINDOW_AVG([Idle Capacity Percent Positive], -7, 0 )
 
 ![]()
