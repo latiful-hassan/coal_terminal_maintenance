@@ -47,3 +47,11 @@
   * visualised aggregate sum of data
   * created a table calculation on the percentage difference
   * applied a calcualted field using **Window Average** to find the 8-hour moving average
+
+**Analysis & Insights**
+- looking at the viz we can see two problem areas - RL1 and SR6
+- if we look at SR6, the time when the idle capacity exceeds 10% plateus at the same time that RL2 has a dip in production.
+- from this insight as well as looking at an image of the machines, we can see that RL2 and SR6 work in the same line, therefore, one machine can work at a higher capacity while the other does not
+- this means than SR6 does not neeed additional maintenance
+- from the trend lines we can see that the P-Values for RL1 and SR4A project further down-time for both machines
+- in conclusion, RL1 is the only machine that does require immediate maintenance while SR4A will need maintenance soon
