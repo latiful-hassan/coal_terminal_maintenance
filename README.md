@@ -37,4 +37,4 @@
 - recap of steps taken thus far:
   * visualised aggregate sum of data
   * created a table calculation on the percentage difference
-  * created a table calculation using **Window Average** to find the 8-hour moving average
+  * applied a calcualted field using **Window Average** to find the 8-hour moving average
